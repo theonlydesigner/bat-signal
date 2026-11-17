@@ -1,0 +1,5 @@
+(no formatting right now, i'll do it once i finish the project)
+
+November 17: Building the Schematic and assigning footprints
+I spat out ideas from my mind today till i decided on the bat signal. I have planned to remove the copper layers and silkscreen in the shape of a bat in the center of a circle pcb. this will show the bare fiberglass on the bottom making it transparent. on the other side i'll add all the components with led in the center part to shine through. so with this in mind i went on to design the schematic. everything went well except i had somehow selected the wrong folder for the basic symbols so after spending around 15 mins trying to fix that i went on to the actual schematic where i put the battery with a switch and 100 ohm resistors connected to the leds. now i soon realised that i had reversed the leds pins and my circuit wouldnt work(thanks to fabricate-help). i fixed that and assigned the footprints with some googling here and there. and yeah 1 more thing. i plan to use 90 degree leds so they point towards the transparent screen and shines through.
+Time spent: 1hr
