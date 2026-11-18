@@ -29,5 +29,5 @@ all components mount exclusively on the back side to keep the front face looking
 ![badge 3d render](images/render.png)
 *(a gorgeous 3d render of the bat signal badge before i burn my fingers with the soldering iron)*
 
-![pcb layout view](images/pcb.png)
+![pcb layout view](images/3_1.png)
 *(the PCB layout showing the stripped fiberglass bat silhouette waiting to glow)*
