@@ -12,7 +12,6 @@ all components mount exclusively on the back side to keep the front face looking
 
 ## bill of materials (BOM)
 
-
 | Name | Quantity | Price |
 | :--- | :---: | :---: |
 | Coin Socket | 5 | 0.63 |
@@ -21,8 +20,10 @@ all components mount exclusively on the back side to keep the front face looking
 | 100 Ohm Resistor | 26 | 0.15 |
 | 5mm LED Yellow | 13 | 0.15 |
 | PCB | 5 | 11.30 |
-| **Total Price** | — | **13.55** |
-
+| Big Plastic Ziplock | 5 | 2.70 |
+| Small Plastic Zip for small components | 5 | 1.50 |
+| Vinyl Sheets for Stickers | 5 | 4.20 |
+| **Total** | | **21.95** |
 
 ## visual showcase
 
